@@ -1,0 +1,6 @@
+GET http://localhost:3000/todos/
+
+GET http://localhost:3000/todos/2
+
+
+GET http://localhost:3000/agenda/?date=2020-09-22
